@@ -1,0 +1,25 @@
+.form{
+	position:relative;
+	width:500px;
+	height:600px;
+	padding-left: 15px;
+	padding-top: 20px;
+	background-color: pink;
+	border-radius: 20px;
+	margin: auto;
+}
+
+
+input [type=text],[type=id_paciente]{
+	width: 470px;
+	height: 35px;
+}
+textarea {
+	width: 470px;
+	height:110px;
+
+}
+
+input [type=text],[type=fecha_ante_personales] {
+	text-align: center;
+}
